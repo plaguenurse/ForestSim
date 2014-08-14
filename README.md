@@ -1,0 +1,1 @@
+A forest simulation based on a concept on reddit's dailyprogrammer and reposted on the codegolf forums of stackexchange. Designed as a practice for progamming and as an implementation of a challenge that I found interesting.
